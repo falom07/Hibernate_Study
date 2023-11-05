@@ -1,31 +1,27 @@
 package Service;
 
 
+import Entity.Product;
 import Entity.User;
-
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
 import org.junit.AfterClass;
 import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
-
-import org.hibernate.cfg.Configuration;
-
-import org.hibernate.Session;
-import org.hibernate.SessionFactory;
-
-import org.apache.logging.log4j.Logger;
-import org.apache.logging.log4j.LogManager;
 import org.junit.runners.Parameterized;
 
 import java.util.List;
 
 
-
-public class UserServiceTest {
+public class ProductServiceTest {
     static SessionFactory sessionFactory;
     static Session session;
-    private static final Logger LOGGER = LogManager.getLogger(UserServiceTest.class);
-    static int idUser;
+    private static final Logger LOGGER = LogManager.getLogger(ProductServiceTest.class);
+    static int idProduct;
     @BeforeClass
     public static void createEntityManegerAndOpenSession(){
         sessionFactory = new Configuration().configure("hibernateTest.cfg.xml").buildSessionFactory();
@@ -34,64 +30,48 @@ public class UserServiceTest {
     }
     @AfterClass
     public static void closeSession(){
+        session.close();
         sessionFactory.close();
         LOGGER.info("Session and SessionFactory close successful");
     }
-    @Parameterized.AfterParam
+
 
     @Test
-    public void testTakeUserById() {
+    public void testTakeProductById() {
         session.beginTransaction();
-        User user = session.get(User.class, 1);
+        Product user = session.get(Product.class, 1);
         session.getTransaction().commit();
 
-        Assert.assertEquals(user.getName(),"Avada");
-
-    }
-
-    @Test
-    public void testAddUser() {
-        session.beginTransaction();
-        User user = new User("Lora2288*35");
-        session.persist(user);
-        User user1 = session.get(User.class,user.getId());
-        session.getTransaction().commit();
-        idUser = user.getId();
-        Assert.assertEquals(user,user1);
+        Assert.assertEquals(user.getProduct(),"milk");
 
     }
     @Test
-    public void testUpdateUser() {
+    public void testUpdateProduct() {
         session.beginTransaction();
-        User user = session.get(User.class,idUser);
-        String nameUser = "Bob236*3";
-        user.setName(nameUser);
+        Product user = session.get(Product.class, 6);
+        String nameUser = "some shit";
+        user.setProduct(nameUser);
         session.merge(user);
-        User user1 = session.get(User.class,idUser);
+        Product user1 = session.get(Product.class, 6);
         session.getTransaction().commit();
-        Assert.assertEquals(nameUser,user1.getName());
-
-    }
-
-//    @Test(expected = IllegalArgumentException.class)
-    @Test
-    public void testRemoveUserById() {
-
-        User user = session.get(User.class,idUser);
-        session.remove(user);
-        User user2 = session.get(User.class,idUser);
-        session.getTransaction().commit();
-        Assert.assertNull(user2);
-
-    }
-
-    @Test
-    public void testTakeAllUser() {
+        Assert.assertEquals(nameUser,user1.getProduct());
         session.beginTransaction();
-        List<Integer> query = session.createQuery("select id from User  ").getResultList();
+        user.setProduct("bread");
+        session.merge(user);
+        session.getTransaction().commit();
+
+    }
+
+
+
+    @Test
+    public void testTakeAllProduct() {
+        session.beginTransaction();
+        List<Integer> query = session.createQuery("select id from Product  ").getResultList();
         for(Integer id_user : query){
             System.out.println(id_user);
-            Assert.assertEquals(id_user,(Integer) session.get(User.class, id_user).getId());
+            Assert.assertEquals(id_user,(Integer) session.get(Product.class, id_user).getId());
         }
+        session.getTransaction().commit();
     }
 }

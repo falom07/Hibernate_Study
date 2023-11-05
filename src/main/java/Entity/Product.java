@@ -39,6 +39,12 @@ public class Product {
         this.price = price;
         this.product = product;
     }
+    public Product(int id,String product,String detail_information,int price){
+        this.id = id;
+        this.detail_information = detail_information;
+        this.price = price;
+        this.product = product;
+    }
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;

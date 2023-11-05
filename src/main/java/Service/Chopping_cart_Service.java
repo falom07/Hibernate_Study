@@ -8,6 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Chopping_cart_Service {
+
     private static int price;
     public void addProductFromChoppingCart(Session session,int id_product,int id_user){
         session.beginTransaction();

@@ -6,14 +6,22 @@ import Entity.User_details;
 import Service.*;
 import org.hibernate.Session;
 
-public class Main {
-    public static void main(String[] args) {
-        Session session =  HibernateUtil.getSessionFactory().openSession();
+import org.apache.logging.log4j.*;
 
-        Order_Service orderService = new Order_Service();
-        orderService.readAllOrder(session);
+public class Main {
+
+    private static final Logger LOGGER = LogManager.getLogger(Main.class);
+    public static void main(String[] args) {
+        LOGGER.info("Hi");
+        LOGGER.error("Hi");
+        Session session =  HibernateUtil.getSessionFactory().openSession();
+        LOGGER.info("Successful create Session ");
+        UserService userService = new UserService();
+        User user = new User("Vana");
+        userService.addUser(session,user);
 
         session.close();
+        LOGGER.info("Close Session successful");
     }
 }
 

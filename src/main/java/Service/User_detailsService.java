@@ -1,5 +1,6 @@
 package Service;
 
+import DAO.UserDetailsDAO;
 import Entity.User;
 import Entity.User_details;
 import jakarta.persistence.TypedQuery;
@@ -10,7 +11,7 @@ import org.hibernate.Session;
 
 import java.util.List;
 
-public class User_detailsService {
+public class User_detailsService implements UserDetailsDAO {
     public void addUser_details(Session session, User_details userDetails,int id_user){
         session.beginTransaction();
         User user = session.get(User.class,id_user);

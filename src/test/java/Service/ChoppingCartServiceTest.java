@@ -12,15 +12,14 @@ import org.junit.AfterClass;
 import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
-import org.junit.runners.Parameterized;
 
 import java.util.List;
 
 
-public class ProductServiceTest {
+public class ChoppingCartServiceTest {
     static SessionFactory sessionFactory;
     static Session session;
-    private static final Logger LOGGER = LogManager.getLogger(ProductServiceTest.class);
+    private static final Logger LOGGER = LogManager.getLogger(ChoppingCartServiceTest.class);
     static int idProduct;
     @BeforeClass
     public static void createEntityManegerAndOpenSession(){
@@ -35,43 +34,33 @@ public class ProductServiceTest {
         LOGGER.info("Session and SessionFactory close successful");
     }
 
-
     @Test
-    public void testTakeProductById() {
+    public void addProductFromChoppingCart(){
         session.beginTransaction();
-        Product user = session.get(Product.class, 1);
-        session.getTransaction().commit();
+        User user = session.get(User.class,1);
+        Product product = session.get(Product.class,1);
+        int size = user.getProductList().size();
+        user.getProductList().add(product);
 
-        Assert.assertEquals(user.getProduct(),"milk");
-
-    }
-    @Test
-    public void testUpdateProduct() {
-        session.beginTransaction();
-        Product user = session.get(Product.class, 6);
-        String nameUser = "some shit";
-        user.setProduct(nameUser);
-        session.merge(user);
-        Product user1 = session.get(Product.class, 6);
+        session.persist(user);
+        int size2 = user.getProductList().size();
         session.getTransaction().commit();
-        Assert.assertEquals(nameUser,user1.getProduct());
-        session.beginTransaction();
-        user.setProduct("bread");
-        session.merge(user);
-        session.getTransaction().commit();
-
+        Assert.assertEquals(size,size2-1);
     }
 
-
-
     @Test
-    public void testTakeAllProduct() {
+    public void removeProductFromChoppingCart(){
         session.beginTransaction();
-        List<Integer> query = session.createQuery("select id from Product  ").getResultList();
-        for(Integer id_user : query){
-            System.out.println(id_user);
-            Assert.assertEquals(id_user,(Integer) session.get(Product.class, id_user).getId());
-        }
+        User user = session.get(User.class,1);
+        Product product = session.get(Product.class,1);
+        user.getProductList().add(product);
+        int size2 = user.getProductList().size();
+        user.getProductList().remove(product);
+
         session.getTransaction().commit();
+        Assert.assertEquals(size2,user.getProductList().size()+1);
     }
+
+
+
 }

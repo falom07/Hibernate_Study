@@ -1,0 +1,1092 @@
+2023-11-05 13:23:55,254 INFO S.Main [main] Hi
+2023-11-05 13:23:55,256 ERROR S.Main [main] Hi
+2023-11-05 13:23:55,308 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 13:23:55,661 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 13:23:55,666 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 13:23:55,666 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop]
+2023-11-05 13:23:55,666 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 13:23:55,667 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 13:23:55,669 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 13:23:55,986 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 13:23:56,564 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 13:45:06,243 INFO S.Main [main] Hi
+2023-11-05 13:45:06,246 ERROR S.Main [main] Hi
+2023-11-05 13:45:06,247 WARN S.HibernateUtil [main] Create SessionManager
+2023-11-05 13:45:06,298 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 13:45:06,689 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 13:45:06,693 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 13:45:06,693 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop]
+2023-11-05 13:45:06,693 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 13:45:06,694 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 13:45:06,696 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 13:45:07,020 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 13:45:07,647 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 13:45:07,690 INFO S.Main [main] Successful create Session 
+2023-11-05 13:45:07,692 INFO S.UserService [main] Successful begin transaction
+2023-11-05 13:45:07,913 INFO S.UserService [main] User was successful create and add to DB
+2023-11-05 13:45:08,139 INFO S.UserService [main] Commit successful
+2023-11-05 13:45:08,139 INFO S.Main [main] Close Session successful
+2023-11-05 16:41:22,307 INFO S.Main [main] Hi
+2023-11-05 16:41:22,308 ERROR S.Main [main] Hi
+2023-11-05 16:41:22,309 WARN S.HibernateUtil [main] Create SessionManager
+2023-11-05 16:41:22,353 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 16:41:22,693 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 16:41:22,697 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 16:41:22,697 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop]
+2023-11-05 16:41:22,698 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 16:41:22,698 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 16:41:22,699 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 16:41:23,002 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 16:41:23,592 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 16:41:23,623 INFO S.Main [main] Successful create Session 
+2023-11-05 16:41:23,625 INFO S.UserService [main] Successful begin transaction
+2023-11-05 16:41:23,807 INFO S.UserService [main] User was successful create and add to DB
+2023-11-05 16:41:23,995 INFO S.UserService [main] Commit successful
+2023-11-05 16:41:23,997 INFO S.Main [main] Close Session successful
+2023-11-05 16:45:25,753 INFO S.Main [main] Hi
+2023-11-05 16:45:25,755 ERROR S.Main [main] Hi
+2023-11-05 16:45:25,755 WARN S.HibernateUtil [main] Create SessionManager
+2023-11-05 16:45:25,814 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 16:45:26,193 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 16:45:26,197 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 16:45:26,198 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop]
+2023-11-05 16:45:26,198 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 16:45:26,198 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 16:45:26,200 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 16:45:26,515 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 16:45:27,130 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 16:45:27,168 INFO S.Main [main] Successful create Session 
+2023-11-05 16:45:27,171 INFO S.UserService [main] Successful begin transaction
+2023-11-05 16:45:27,311 INFO S.UserService [main] User was successful create and add to DB
+2023-11-05 16:45:27,451 INFO S.UserService [main] Commit successful
+2023-11-05 16:45:27,452 INFO S.Main [main] Close Session successful
+2023-11-05 17:04:34,020 INFO S.Main [main] Hi
+2023-11-05 17:04:34,022 ERROR S.Main [main] Hi
+2023-11-05 17:04:34,023 WARN S.HibernateUtil [main] Create SessionManager
+2023-11-05 17:04:34,074 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 17:04:34,433 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 17:04:34,440 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 17:04:34,440 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:04:34,441 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 17:04:34,441 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 17:04:34,443 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 17:04:34,736 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 17:04:35,295 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 17:04:35,331 INFO S.Main [main] Successful create Session 
+2023-11-05 17:04:35,333 INFO S.UserService [main] Successful begin transaction
+2023-11-05 17:04:35,513 INFO S.UserService [main] User was successful create and add to DB
+2023-11-05 17:04:35,647 INFO S.UserService [main] Commit successful
+2023-11-05 17:04:35,648 INFO S.Main [main] Close Session successful
+2023-11-05 17:07:21,710 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 17:07:22,066 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 17:07:22,069 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 17:07:22,070 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:07:22,070 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 17:07:22,070 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 17:07:22,072 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 17:07:22,385 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 17:07:22,968 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 17:07:23,000 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 17:07:23,057 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:07:23,059 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 17:13:09,287 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 17:13:09,658 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 17:13:09,662 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 17:13:09,662 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:13:09,663 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 17:13:09,663 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 17:13:09,665 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 17:13:09,971 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 17:13:10,540 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 17:13:10,574 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 17:13:10,883 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:13:10,886 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 17:13:59,765 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 17:14:00,147 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 17:14:00,151 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 17:14:00,152 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:14:00,152 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 17:14:00,152 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 17:14:00,154 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 17:14:00,485 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 17:14:01,081 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 17:14:01,119 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 17:14:01,331 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:14:01,333 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 17:14:28,328 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 17:14:29,625 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 17:14:29,635 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 17:14:29,635 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:14:29,635 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 17:14:29,635 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 17:14:29,640 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 17:14:30,601 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 17:14:32,074 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 17:14:32,229 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 17:14:32,671 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:14:32,676 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 17:16:51,222 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 17:16:51,588 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 17:16:51,591 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 17:16:51,591 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:16:51,591 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 17:16:51,592 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 17:16:51,593 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 17:16:51,900 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 17:16:52,512 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 17:16:52,546 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 17:16:53,544 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:16:53,549 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 17:22:04,256 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 17:22:04,641 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 17:22:04,645 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 17:22:04,646 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:22:04,646 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 17:22:04,646 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 17:22:04,648 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 17:22:04,954 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 17:22:05,551 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 17:22:05,585 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 17:22:05,629 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:22:05,631 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 17:22:25,068 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 17:22:25,441 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 17:22:25,444 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 17:22:25,444 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:22:25,445 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 17:22:25,445 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 17:22:25,447 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 17:22:25,741 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 17:22:26,356 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 17:22:26,393 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 17:22:26,813 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:22:26,818 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 17:25:26,681 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 17:25:27,037 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 17:25:27,041 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 17:25:27,041 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:25:27,041 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 17:25:27,041 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 17:25:27,043 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 17:25:27,358 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 17:25:27,936 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 17:25:27,971 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 17:25:28,498 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:25:28,502 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/Shop_test
+2023-11-05 17:25:28,507 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections
+2023-11-05 17:25:28,507 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 17:25:50,308 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 17:25:50,680 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 17:25:50,684 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 17:25:50,685 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:25:50,685 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 17:25:50,685 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 17:25:50,687 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 17:25:50,997 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 17:25:51,585 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 17:25:51,619 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 17:25:52,043 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:25:52,047 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/Shop_test
+2023-11-05 17:25:52,051 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections
+2023-11-05 17:25:52,051 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 17:26:03,284 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 17:26:03,656 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 17:26:03,659 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 17:26:03,660 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:26:03,660 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 17:26:03,660 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 17:26:03,662 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 17:26:03,955 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 17:26:04,539 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 17:26:04,571 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 17:26:05,008 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:26:05,012 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/Shop_test
+2023-11-05 17:26:05,016 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections
+2023-11-05 17:26:05,017 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 17:34:05,654 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 17:34:06,018 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 17:34:06,022 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 17:34:06,022 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:34:06,023 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 17:34:06,023 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 17:34:06,025 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 17:34:06,345 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 17:34:06,923 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 17:34:06,960 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 17:34:07,415 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:34:07,418 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/Shop_test
+2023-11-05 17:34:07,422 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections
+2023-11-05 17:34:07,422 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 17:34:35,559 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 17:34:35,956 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 17:34:35,960 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 17:34:35,960 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:34:35,960 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 17:34:35,960 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 17:34:35,962 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 17:34:36,279 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 17:34:36,904 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 17:34:36,940 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 17:34:36,988 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:34:36,990 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/Shop_test
+2023-11-05 17:34:36,993 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections
+2023-11-05 17:34:36,993 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 17:34:50,860 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 17:34:51,219 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 17:34:51,222 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 17:34:51,223 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:34:51,223 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 17:34:51,223 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 17:34:51,225 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 17:34:51,518 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 17:34:52,125 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 17:34:52,161 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 17:34:52,200 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:34:52,203 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/Shop_test
+2023-11-05 17:34:52,205 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections
+2023-11-05 17:34:52,206 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 17:35:55,283 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 17:35:55,689 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 17:35:55,693 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 17:35:55,693 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:35:55,693 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 17:35:55,694 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 17:35:55,696 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 17:35:56,045 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 17:35:56,687 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 17:35:56,723 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 17:35:56,771 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:35:56,773 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/Shop_test
+2023-11-05 17:35:56,775 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections
+2023-11-05 17:35:56,776 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 17:36:01,076 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 17:36:02,449 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 17:36:02,841 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 17:36:02,845 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 17:36:02,845 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:36:02,845 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 17:36:02,845 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 17:36:02,847 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 17:36:03,168 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 17:36:03,785 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 17:36:03,821 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 17:36:04,466 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:36:04,468 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/Shop_test
+2023-11-05 17:36:04,470 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections
+2023-11-05 17:36:04,470 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 17:37:44,036 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 17:37:44,409 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 17:37:44,413 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 17:37:44,413 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:37:44,413 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 17:37:44,413 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 17:37:44,415 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 17:37:44,738 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 17:37:45,343 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 17:37:45,377 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 17:37:46,306 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:37:46,312 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/Shop_test
+2023-11-05 17:37:46,319 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections
+2023-11-05 17:37:46,319 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 17:38:00,904 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 17:38:01,287 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 17:38:01,291 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 17:38:01,291 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:38:01,291 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 17:38:01,292 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 17:38:01,294 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 17:38:01,605 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 17:38:02,209 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 17:38:02,245 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 17:38:02,865 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:38:02,869 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/Shop_test
+2023-11-05 17:38:02,874 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections
+2023-11-05 17:38:02,874 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 17:38:25,333 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 17:38:25,709 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 17:38:25,714 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 17:38:25,714 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:38:25,714 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 17:38:25,714 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 17:38:25,716 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 17:38:26,048 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 17:38:26,658 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 17:38:26,695 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 17:38:27,544 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:38:27,548 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 17:38:36,194 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 17:38:36,572 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 17:38:36,576 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 17:38:36,576 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:38:36,576 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 17:38:36,576 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 17:38:36,578 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 17:38:36,894 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 17:38:37,527 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 17:38:37,561 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 17:38:37,608 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:38:37,610 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/Shop_test
+2023-11-05 17:38:37,612 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections
+2023-11-05 17:38:37,612 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 17:38:48,157 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 17:38:48,539 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 17:38:48,543 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 17:38:48,543 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:38:48,543 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 17:38:48,544 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 17:38:48,546 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 17:38:48,863 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 17:38:49,468 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 17:38:49,501 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 17:38:49,549 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:38:49,551 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/Shop_test
+2023-11-05 17:38:49,553 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections
+2023-11-05 17:38:49,553 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 17:38:54,766 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 17:38:55,150 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 17:38:55,153 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 17:38:55,154 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:38:55,154 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 17:38:55,154 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 17:38:55,156 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 17:38:55,451 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 17:38:56,033 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 17:38:56,066 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 17:38:56,739 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:38:56,744 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 17:39:41,801 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 17:39:42,167 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 17:39:42,171 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 17:39:42,171 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:39:42,171 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 17:39:42,171 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 17:39:42,173 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 17:39:42,491 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 17:39:43,079 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 17:39:43,112 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 17:39:44,133 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:39:44,138 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 17:40:22,618 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 17:40:22,985 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 17:40:22,989 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 17:40:22,989 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:40:22,989 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 17:40:22,990 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 17:40:22,991 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 17:40:23,295 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 17:40:23,896 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 17:40:23,931 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 17:40:24,538 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:40:24,542 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/Shop_test
+2023-11-05 17:40:24,547 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections
+2023-11-05 17:40:24,548 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 17:40:55,717 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 17:40:56,104 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 17:40:56,107 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 17:40:56,108 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:40:56,108 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 17:40:56,108 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 17:40:56,110 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 17:40:56,416 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 17:40:57,025 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 17:40:57,060 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 17:40:57,624 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:40:57,628 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/Shop_test
+2023-11-05 17:40:57,632 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections
+2023-11-05 17:40:57,633 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 17:42:38,535 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 17:42:38,881 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 17:42:38,885 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 17:42:38,886 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:42:38,886 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 17:42:38,886 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 17:42:38,888 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 17:42:39,193 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 17:42:39,780 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 17:42:39,814 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 17:42:40,742 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:42:40,753 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 17:43:06,631 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 17:43:07,026 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 17:43:07,030 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 17:43:07,031 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:43:07,031 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 17:43:07,031 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 17:43:07,033 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 17:43:07,344 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 17:43:07,955 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 17:43:07,990 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 17:43:08,842 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 17:43:08,847 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 18:55:12,102 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 18:55:12,445 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 18:55:12,448 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 18:55:12,449 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 18:55:12,449 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 18:55:12,449 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 18:55:12,451 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 18:55:12,753 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 18:55:13,332 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 18:55:13,366 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 18:55:13,447 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 18:55:13,449 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/Shop_test
+2023-11-05 18:55:13,452 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections
+2023-11-05 18:55:13,452 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 18:59:21,096 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 18:59:21,460 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 18:59:21,464 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 18:59:21,464 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 18:59:21,464 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 18:59:21,465 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 18:59:21,467 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 18:59:21,782 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 18:59:22,358 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 18:59:22,393 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 18:59:22,481 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 18:59:22,483 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/Shop_test
+2023-11-05 18:59:22,485 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections
+2023-11-05 18:59:22,485 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 19:00:03,998 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:00:04,366 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:00:04,370 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:00:04,370 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:00:04,370 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:00:04,370 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:00:04,372 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:00:04,675 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:00:05,241 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:00:05,274 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 19:00:05,504 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:00:05,506 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/Shop_test
+2023-11-05 19:00:05,507 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections
+2023-11-05 19:00:05,508 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 19:00:12,523 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:00:12,940 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:00:12,944 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:00:12,944 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:00:12,944 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:00:12,944 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:00:12,946 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:00:13,278 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:00:13,869 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:00:13,903 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 19:00:14,901 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:00:14,903 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/Shop_test
+2023-11-05 19:00:14,905 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections
+2023-11-05 19:00:14,905 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 19:00:35,963 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:00:36,327 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:00:36,331 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:00:36,331 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:00:36,332 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:00:36,332 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:00:36,334 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:00:36,647 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:00:37,249 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:00:37,284 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 19:00:38,889 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:00:38,893 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 19:07:36,731 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:07:37,108 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:07:37,112 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:07:37,112 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:07:37,113 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:07:37,113 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:07:37,115 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:07:37,439 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:07:38,050 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:07:38,084 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 19:07:38,230 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:07:38,232 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/Shop_test
+2023-11-05 19:07:38,235 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections
+2023-11-05 19:07:38,235 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 19:07:59,008 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:07:59,383 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:07:59,386 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:07:59,386 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:07:59,387 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:07:59,387 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:07:59,389 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:07:59,719 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:08:00,321 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:08:00,355 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 19:08:00,513 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:08:00,516 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/Shop_test
+2023-11-05 19:08:00,518 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections
+2023-11-05 19:08:00,518 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 19:08:28,644 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:08:29,008 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:08:29,012 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:08:29,013 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:08:29,013 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:08:29,013 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:08:29,015 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:08:29,329 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:08:29,928 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:08:29,964 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 19:08:30,413 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:08:30,415 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/Shop_test
+2023-11-05 19:08:30,418 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections
+2023-11-05 19:08:30,418 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 19:10:55,713 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:10:56,109 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:10:56,113 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:10:56,113 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:10:56,114 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:10:56,114 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:10:56,116 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:10:56,428 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:10:57,005 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:10:57,038 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 19:10:57,222 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:10:57,223 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/Shop_test
+2023-11-05 19:10:57,225 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections
+2023-11-05 19:10:57,226 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 19:12:25,594 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:12:25,964 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:12:25,968 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:12:25,968 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:12:25,969 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:12:25,969 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:12:25,971 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:12:26,274 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:12:26,841 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:12:26,873 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 19:12:27,240 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:12:27,242 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/Shop_test
+2023-11-05 19:12:27,244 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections
+2023-11-05 19:12:27,244 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 19:13:20,989 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:13:21,346 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:13:21,349 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:13:21,349 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:13:21,350 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:13:21,350 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:13:21,352 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:13:21,637 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:13:22,229 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:13:22,262 INFO S.UserServiceTest [main] SessionFactory create and session open successful
+2023-11-05 19:13:22,456 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:13:22,458 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/Shop_test
+2023-11-05 19:13:22,460 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections
+2023-11-05 19:13:22,460 INFO S.UserServiceTest [main] Session and SessionFactory close successful
+2023-11-05 19:25:09,027 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:25:09,405 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:25:09,409 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:25:09,409 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:25:09,409 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:25:09,409 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:25:09,411 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:25:09,734 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:25:10,342 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:25:10,376 INFO S.UserDetailsTest [main] SessionFactory create and session open successful
+2023-11-05 19:25:10,988 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:25:10,990 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/Shop_test
+2023-11-05 19:25:10,992 ERROR o.h.o.c.pooling [main] Connection leak detected: there are 1 unclosed connections
+2023-11-05 19:25:10,992 INFO S.UserDetailsTest [main] Session and SessionFactory close successful
+2023-11-05 19:26:24,203 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:26:24,565 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:26:24,569 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:26:24,569 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:26:24,569 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:26:24,570 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:26:24,571 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:26:24,902 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:26:25,508 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:26:25,545 INFO S.UserDetailsTest [main] SessionFactory create and session open successful
+2023-11-05 19:26:25,610 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:26:25,612 INFO S.UserDetailsTest [main] Session and SessionFactory close successful
+2023-11-05 19:26:59,355 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:26:59,744 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:26:59,748 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:26:59,748 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:26:59,748 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:26:59,749 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:26:59,751 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:27:00,092 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:27:00,693 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:27:00,728 INFO S.UserDetailsTest [main] SessionFactory create and session open successful
+2023-11-05 19:27:00,908 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:27:00,913 INFO S.UserDetailsTest [main] Session and SessionFactory close successful
+2023-11-05 19:27:25,099 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:27:25,466 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:27:25,469 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:27:25,469 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:27:25,470 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:27:25,470 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:27:25,472 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:27:25,781 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:27:26,385 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:27:26,420 INFO S.UserDetailsTest [main] SessionFactory create and session open successful
+2023-11-05 19:27:26,484 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:27:26,486 INFO S.UserDetailsTest [main] Session and SessionFactory close successful
+2023-11-05 19:27:34,636 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:27:35,018 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:27:35,021 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:27:35,022 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:27:35,022 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:27:35,022 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:27:35,025 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:27:35,356 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:27:35,987 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:27:36,024 INFO S.UserDetailsTest [main] SessionFactory create and session open successful
+2023-11-05 19:27:36,219 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:27:36,221 INFO S.UserDetailsTest [main] Session and SessionFactory close successful
+2023-11-05 19:32:57,545 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:32:57,913 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:32:57,917 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:32:57,918 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:32:57,918 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:32:57,918 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:32:57,920 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:32:58,235 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:32:58,829 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:32:58,863 INFO S.UserDetailsTest [main] SessionFactory create and session open successful
+2023-11-05 19:32:59,085 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:32:59,088 INFO S.UserDetailsTest [main] Session and SessionFactory close successful
+2023-11-05 19:33:41,949 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:33:42,327 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:33:42,331 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:33:42,331 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:33:42,332 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:33:42,332 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:33:42,334 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:33:42,644 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:33:43,218 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:33:43,252 INFO S.UserDetailsTest [main] SessionFactory create and session open successful
+2023-11-05 19:33:43,529 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:33:43,532 INFO S.UserDetailsTest [main] Session and SessionFactory close successful
+2023-11-05 19:34:46,929 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:34:47,309 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:34:47,313 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:34:47,313 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:34:47,314 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:34:47,314 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:34:47,316 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:34:47,642 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:34:48,231 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:34:48,266 INFO S.UserDetailsTest [main] SessionFactory create and session open successful
+2023-11-05 19:34:48,709 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:34:48,712 INFO S.UserDetailsTest [main] Session and SessionFactory close successful
+2023-11-05 19:35:55,720 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:35:56,099 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:35:56,103 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:35:56,103 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:35:56,104 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:35:56,104 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:35:56,106 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:35:56,400 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:35:57,005 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:35:57,043 INFO S.UserDetailsTest [main] SessionFactory create and session open successful
+2023-11-05 19:35:57,549 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:35:57,553 INFO S.UserDetailsTest [main] Session and SessionFactory close successful
+2023-11-05 19:36:27,823 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:36:28,181 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:36:28,185 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:36:28,186 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:36:28,186 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:36:28,186 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:36:28,188 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:36:28,492 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:36:29,069 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:36:29,104 INFO S.UserDetailsTest [main] SessionFactory create and session open successful
+2023-11-05 19:36:29,453 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:36:29,458 INFO S.UserDetailsTest [main] Session and SessionFactory close successful
+2023-11-05 19:38:41,421 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:38:41,862 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:38:41,866 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:38:41,866 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:38:41,866 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:38:41,867 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:38:41,868 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:38:42,181 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:38:42,794 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:38:42,834 INFO S.UserDetailsTest [main] SessionFactory create and session open successful
+2023-11-05 19:38:43,046 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:38:43,048 INFO S.UserDetailsTest [main] Session and SessionFactory close successful
+2023-11-05 19:39:32,857 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:39:33,226 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:39:33,230 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:39:33,230 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:39:33,231 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:39:33,231 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:39:33,233 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:39:33,535 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:39:34,164 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:39:34,198 INFO S.UserDetailsTest [main] SessionFactory create and session open successful
+2023-11-05 19:39:34,427 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:39:34,429 INFO S.UserDetailsTest [main] Session and SessionFactory close successful
+2023-11-05 19:45:17,816 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:45:18,198 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:45:18,201 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:45:18,202 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:45:18,202 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:45:18,202 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:45:18,204 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:45:18,522 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:45:19,133 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:45:19,168 INFO S.UserDetailsTest [main] SessionFactory create and session open successful
+2023-11-05 19:45:20,286 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:45:20,289 INFO S.UserDetailsTest [main] Session and SessionFactory close successful
+2023-11-05 19:47:46,691 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:47:47,057 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:47:47,061 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:47:47,061 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:47:47,061 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:47:47,061 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:47:47,063 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:47:47,374 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:47:47,964 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:47:47,997 INFO S.UserDetailsTest [main] SessionFactory create and session open successful
+2023-11-05 19:47:48,731 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:47:48,733 INFO S.UserDetailsTest [main] Session and SessionFactory close successful
+2023-11-05 19:48:28,445 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:48:28,813 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:48:28,816 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:48:28,816 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:48:28,817 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:48:28,817 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:48:28,819 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:48:29,131 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:48:29,700 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:48:29,733 INFO S.UserDetailsTest [main] SessionFactory create and session open successful
+2023-11-05 19:48:29,929 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:48:29,931 INFO S.UserDetailsTest [main] Session and SessionFactory close successful
+2023-11-05 19:50:59,715 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:51:00,091 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:51:00,094 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:51:00,094 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:51:00,095 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:51:00,095 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:51:00,097 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:51:00,394 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:51:00,985 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:51:01,017 INFO S.UserDetailsTest [main] SessionFactory create and session open successful
+2023-11-05 19:51:01,290 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:51:01,293 INFO S.UserDetailsTest [main] Session and SessionFactory close successful
+2023-11-05 19:51:38,412 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:51:38,808 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:51:38,811 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:51:38,812 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:51:38,812 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:51:38,812 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:51:38,814 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:51:39,116 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:51:39,710 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:51:39,744 INFO S.UserDetailsTest [main] SessionFactory create and session open successful
+2023-11-05 19:51:39,983 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:51:39,985 INFO S.UserDetailsTest [main] Session and SessionFactory close successful
+2023-11-05 19:51:51,004 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:51:51,418 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:51:51,422 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:51:51,422 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:51:51,423 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:51:51,423 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:51:51,425 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:51:51,723 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:51:52,320 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:51:52,354 INFO S.UserDetailsTest [main] SessionFactory create and session open successful
+2023-11-05 19:51:53,784 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:51:53,786 INFO S.UserDetailsTest [main] Session and SessionFactory close successful
+2023-11-05 19:52:26,951 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:52:27,326 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:52:27,330 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:52:27,330 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:52:27,330 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:52:27,331 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:52:27,332 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:52:27,654 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:52:28,268 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:52:28,302 INFO S.UserDetailsTest [main] SessionFactory create and session open successful
+2023-11-05 19:52:30,719 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:52:30,721 INFO S.UserDetailsTest [main] Session and SessionFactory close successful
+2023-11-05 19:58:44,891 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:58:45,269 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:58:45,274 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:58:45,274 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:58:45,274 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:58:45,275 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:58:45,277 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:58:45,585 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:58:46,217 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:58:46,255 INFO S.ProductServiceTest [main] SessionFactory create and session open successful
+2023-11-05 19:58:46,498 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:58:46,501 INFO S.ProductServiceTest [main] Session and SessionFactory close successful
+2023-11-05 19:59:46,253 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 19:59:46,629 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 19:59:46,633 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 19:59:46,634 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:59:46,634 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 19:59:46,634 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 19:59:46,636 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 19:59:46,954 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 19:59:47,571 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 19:59:47,607 INFO S.ProductServiceTest [main] SessionFactory create and session open successful
+2023-11-05 19:59:47,880 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 19:59:47,883 INFO S.ProductServiceTest [main] Session and SessionFactory close successful
+2023-11-05 20:01:31,696 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 20:01:32,097 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 20:01:32,101 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 20:01:32,101 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:01:32,102 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 20:01:32,102 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 20:01:32,104 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 20:01:32,434 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 20:01:33,045 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 20:01:33,081 INFO S.ProductServiceTest [main] SessionFactory create and session open successful
+2023-11-05 20:01:33,673 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:01:33,675 INFO S.ProductServiceTest [main] Session and SessionFactory close successful
+2023-11-05 20:01:58,911 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 20:01:59,283 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 20:01:59,286 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 20:01:59,287 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:01:59,287 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 20:01:59,287 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 20:01:59,289 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 20:01:59,588 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 20:02:00,219 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 20:02:00,254 INFO S.ProductServiceTest [main] SessionFactory create and session open successful
+2023-11-05 20:02:00,524 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:02:00,527 INFO S.ProductServiceTest [main] Session and SessionFactory close successful
+2023-11-05 20:29:44,094 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 20:29:44,470 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 20:29:44,474 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 20:29:44,474 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:29:44,475 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 20:29:44,475 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 20:29:44,477 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 20:29:44,779 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 20:29:45,383 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 20:29:45,419 INFO S.ProductServiceTest [main] SessionFactory create and session open successful
+2023-11-05 20:29:45,692 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:29:45,694 INFO S.ProductServiceTest [main] Session and SessionFactory close successful
+2023-11-05 20:30:22,036 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 20:30:22,423 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 20:30:22,426 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 20:30:22,427 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:30:22,427 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 20:30:22,427 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 20:30:22,429 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 20:30:22,745 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 20:30:23,343 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 20:30:23,382 INFO S.ProductServiceTest [main] SessionFactory create and session open successful
+2023-11-05 20:30:23,971 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:30:23,976 INFO S.ProductServiceTest [main] Session and SessionFactory close successful
+2023-11-05 20:32:54,547 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 20:32:54,911 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 20:32:54,915 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 20:32:54,915 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:32:54,915 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 20:32:54,915 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 20:32:54,917 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 20:32:55,235 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 20:32:55,827 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 20:32:55,862 INFO S.ProductServiceTest [main] SessionFactory create and session open successful
+2023-11-05 20:32:56,405 WARN o.h.e.j.s.SqlExceptionHelper [main] SQL Error: 1364, SQLState: HY000
+2023-11-05 20:32:56,405 ERROR o.h.e.j.s.SqlExceptionHelper [main] Field 'id' doesn't have a default value
+2023-11-05 20:32:56,423 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:32:56,425 INFO S.ProductServiceTest [main] Session and SessionFactory close successful
+2023-11-05 20:33:42,214 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 20:33:42,591 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 20:33:42,595 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 20:33:42,595 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:33:42,595 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 20:33:42,595 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 20:33:42,598 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 20:33:42,903 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 20:33:43,494 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 20:33:43,529 INFO S.ProductServiceTest [main] SessionFactory create and session open successful
+2023-11-05 20:33:43,567 WARN o.h.e.j.s.SqlExceptionHelper [main] SQL Error: 1364, SQLState: HY000
+2023-11-05 20:33:43,567 ERROR o.h.e.j.s.SqlExceptionHelper [main] Field 'id' doesn't have a default value
+2023-11-05 20:33:43,579 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:33:43,581 INFO S.ProductServiceTest [main] Session and SessionFactory close successful
+2023-11-05 20:34:31,023 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 20:34:31,368 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 20:34:31,371 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 20:34:31,371 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:34:31,372 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 20:34:31,372 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 20:34:31,374 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 20:34:31,666 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 20:34:32,241 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 20:34:32,276 INFO S.ProductServiceTest [main] SessionFactory create and session open successful
+2023-11-05 20:34:32,310 WARN o.h.e.j.s.SqlExceptionHelper [main] SQL Error: 1364, SQLState: HY000
+2023-11-05 20:34:32,310 ERROR o.h.e.j.s.SqlExceptionHelper [main] Field 'id' doesn't have a default value
+2023-11-05 20:34:32,326 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:34:32,327 INFO S.ProductServiceTest [main] Session and SessionFactory close successful
+2023-11-05 20:35:43,059 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 20:35:43,426 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 20:35:43,429 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 20:35:43,429 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:35:43,430 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 20:35:43,430 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 20:35:43,432 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 20:35:43,723 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 20:35:44,309 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 20:35:44,343 INFO S.ProductServiceTest [main] SessionFactory create and session open successful
+2023-11-05 20:35:44,375 WARN o.h.e.j.s.SqlExceptionHelper [main] SQL Error: 1364, SQLState: HY000
+2023-11-05 20:35:44,376 ERROR o.h.e.j.s.SqlExceptionHelper [main] Field 'id' doesn't have a default value
+2023-11-05 20:35:44,391 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:35:44,393 INFO S.ProductServiceTest [main] Session and SessionFactory close successful
+2023-11-05 20:37:42,873 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 20:37:43,234 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 20:37:43,238 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 20:37:43,238 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:37:43,238 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 20:37:43,239 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 20:37:43,240 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 20:37:43,554 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 20:37:44,138 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 20:37:44,173 INFO S.ProductServiceTest [main] SessionFactory create and session open successful
+2023-11-05 20:37:44,188 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:37:44,190 INFO S.ProductServiceTest [main] Session and SessionFactory close successful
+2023-11-05 20:37:52,734 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 20:37:53,090 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 20:37:53,093 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 20:37:53,093 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:37:53,094 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 20:37:53,094 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 20:37:53,096 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 20:37:53,383 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 20:37:53,971 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 20:37:54,004 INFO S.ProductServiceTest [main] SessionFactory create and session open successful
+2023-11-05 20:37:54,041 WARN o.h.e.j.s.SqlExceptionHelper [main] SQL Error: 1364, SQLState: HY000
+2023-11-05 20:37:54,042 ERROR o.h.e.j.s.SqlExceptionHelper [main] Field 'id' doesn't have a default value
+2023-11-05 20:37:54,052 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:37:54,054 INFO S.ProductServiceTest [main] Session and SessionFactory close successful
+2023-11-05 20:40:00,564 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 20:40:00,940 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 20:40:00,945 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 20:40:00,946 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:40:00,946 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 20:40:00,947 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 20:40:00,948 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 20:40:01,253 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 20:40:01,836 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 20:40:01,870 INFO S.ProductServiceTest [main] SessionFactory create and session open successful
+2023-11-05 20:40:01,903 WARN o.h.e.j.s.SqlExceptionHelper [main] SQL Error: 1364, SQLState: HY000
+2023-11-05 20:40:01,903 ERROR o.h.e.j.s.SqlExceptionHelper [main] Field 'id' doesn't have a default value
+2023-11-05 20:40:01,920 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:40:01,922 INFO S.ProductServiceTest [main] Session and SessionFactory close successful
+2023-11-05 20:41:26,134 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 20:41:26,486 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 20:41:26,490 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 20:41:26,490 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:41:26,490 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 20:41:26,491 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 20:41:26,492 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 20:41:26,785 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 20:41:27,393 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 20:41:27,428 INFO S.ProductServiceTest [main] SessionFactory create and session open successful
+2023-11-05 20:41:28,194 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:41:28,197 INFO S.ProductServiceTest [main] Session and SessionFactory close successful
+2023-11-05 20:43:12,958 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 20:43:13,326 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 20:43:13,330 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 20:43:13,330 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:43:13,331 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 20:43:13,331 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 20:43:13,333 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 20:43:13,623 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 20:43:14,190 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 20:43:14,222 INFO S.ProductServiceTest [main] SessionFactory create and session open successful
+2023-11-05 20:43:14,257 WARN o.h.e.j.s.SqlExceptionHelper [main] SQL Error: 1364, SQLState: HY000
+2023-11-05 20:43:14,257 ERROR o.h.e.j.s.SqlExceptionHelper [main] Field 'id' doesn't have a default value
+2023-11-05 20:43:14,272 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:43:14,274 INFO S.ProductServiceTest [main] Session and SessionFactory close successful
+2023-11-05 20:43:42,390 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 20:43:42,813 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 20:43:42,817 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 20:43:42,817 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:43:42,818 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 20:43:42,818 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 20:43:42,820 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 20:43:43,127 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 20:43:43,719 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 20:43:43,751 INFO S.ProductServiceTest [main] SessionFactory create and session open successful
+2023-11-05 20:43:44,291 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:43:44,293 INFO S.ProductServiceTest [main] Session and SessionFactory close successful
+2023-11-05 20:47:01,724 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 20:47:02,090 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 20:47:02,093 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 20:47:02,093 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:47:02,094 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 20:47:02,094 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 20:47:02,096 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 20:47:02,390 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 20:47:03,016 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 20:47:03,052 INFO S.ChoppingCartServiceTest [main] SessionFactory create and session open successful
+2023-11-05 20:47:03,292 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:47:03,294 INFO S.ChoppingCartServiceTest [main] Session and SessionFactory close successful
+2023-11-05 20:49:24,323 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 20:49:24,691 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 20:49:24,694 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 20:49:24,694 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:49:24,695 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 20:49:24,695 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 20:49:24,697 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 20:49:24,995 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 20:49:25,560 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 20:49:25,593 INFO S.ChoppingCartServiceTest [main] SessionFactory create and session open successful
+2023-11-05 20:49:25,847 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:49:25,849 INFO S.ChoppingCartServiceTest [main] Session and SessionFactory close successful
+2023-11-05 20:49:58,814 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 20:49:59,182 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 20:49:59,186 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 20:49:59,186 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:49:59,186 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 20:49:59,187 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 20:49:59,188 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 20:49:59,491 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 20:50:00,088 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 20:50:00,125 INFO S.ChoppingCartServiceTest [main] SessionFactory create and session open successful
+2023-11-05 20:50:00,349 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:50:00,351 INFO S.ChoppingCartServiceTest [main] Session and SessionFactory close successful
+2023-11-05 20:50:32,104 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 20:50:32,469 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 20:50:32,473 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 20:50:32,473 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:50:32,473 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 20:50:32,473 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 20:50:32,475 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 20:50:32,763 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 20:50:33,358 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 20:50:33,392 INFO S.ChoppingCartServiceTest [main] SessionFactory create and session open successful
+2023-11-05 20:50:33,745 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:50:33,748 INFO S.ChoppingCartServiceTest [main] Session and SessionFactory close successful
+2023-11-05 20:50:50,093 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 20:50:50,456 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 20:50:50,459 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 20:50:50,460 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:50:50,460 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 20:50:50,460 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 20:50:50,462 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 20:50:50,758 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 20:50:51,345 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 20:50:51,379 INFO S.ChoppingCartServiceTest [main] SessionFactory create and session open successful
+2023-11-05 20:50:51,567 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:50:51,569 INFO S.ChoppingCartServiceTest [main] Session and SessionFactory close successful
+2023-11-05 20:52:18,843 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 20:52:19,208 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 20:52:19,212 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 20:52:19,212 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:52:19,212 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 20:52:19,212 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 20:52:19,214 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 20:52:19,510 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 20:52:20,106 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 20:52:20,141 INFO S.ChoppingCartServiceTest [main] SessionFactory create and session open successful
+2023-11-05 20:52:20,496 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:52:20,498 INFO S.ChoppingCartServiceTest [main] Session and SessionFactory close successful
+2023-11-05 20:53:08,777 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 6.1.4.Final
+2023-11-05 20:53:09,130 WARN o.h.o.c.pooling [main] HHH10001002: Using built-in connection pool (not intended for production use)
+2023-11-05 20:53:09,134 INFO o.h.o.c.pooling [main] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+2023-11-05 20:53:09,134 INFO o.h.o.c.pooling [main] HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:53:09,135 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, characterEncoding=utf8, user=sammy}
+2023-11-05 20:53:09,135 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2023-11-05 20:53:09,137 INFO o.h.o.c.pooling [main] HHH10001115: Connection pool size: 10 (min=1)
+2023-11-05 20:53:09,442 INFO SQL dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-11-05 20:53:10,036 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-11-05 20:53:10,070 INFO S.ChoppingCartServiceTest [main] SessionFactory create and session open successful
+2023-11-05 20:53:10,296 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/Shop_test]
+2023-11-05 20:53:10,298 INFO S.ChoppingCartServiceTest [main] Session and SessionFactory close successful
